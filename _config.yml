@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title:  Steve's GIS Portfolio
 description:  All my latest GIS project updates!
+github:
+  is_project_page: false
