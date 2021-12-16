@@ -1,37 +1,12 @@
-## Steve's GIS Portfolio
+## Steve Harris
 
-You can use the [editor on GitHub](https://github.com/sharris416/steveharris.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Digital Marketer, Developer, Instructor, AI Researcher, Writer, and overall Digital Citizen.  Basically, I'm just this guy with a lot of hats. You can read more about my background and research on [Linkedin](https://www.linkedin.com/in/stevencharris/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have long been interested in Geographic and Spatial Research and Visulaizations, and especially in the exciting ways they can be used with machine learning and, in combination with marketing research, provide new ways to learn about the world.
 
-### Markdown
+This Portfolio documents my journey into GIS learning, and I am excited to share it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Contact Me
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharris416/steveharris.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I can be reached on [Linkedin](https://www.linkedin.com/in/stevencharris/) or [Twitter](https://twitter.com/stevenharris).  Thanks for stopping by!
