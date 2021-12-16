@@ -1,4 +1,4 @@
-## Steve Harris
+## Welcome!
 
 I am a Digital Marketer, Developer, Instructor, AI Researcher, Writer, and overall Digital Citizen.  Basically, I'm just this guy with a lot of hats. You can read more about my background and research on [Linkedin](https://www.linkedin.com/in/stevencharris/).
 
